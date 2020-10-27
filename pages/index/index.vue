@@ -1,7 +1,7 @@
 <template>
 	<view class="content">
 		<image class="logo" src="/static/logo.png"></image>
-		首页内容
+		首页内容111
 	</view>
 </template>
 
